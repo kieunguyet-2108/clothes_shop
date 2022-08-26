@@ -1,0 +1,36 @@
+
+#main_login{
+    margin-top: 70px;
+    margin-bottom: 100px;
+    width: 35%;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+}
+
+#main_register{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    width: 35%;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+}
+/*#update_hover{
+    position: relative;
+    margin-top: 5px;*/
+/*}
+#form_hover{
+    display: inline-grid;
+}
+#form_hover{
+    display: inline-grid;
+    display: none;
+    position: absolute;
+    border: 1px solid whitesmoke;
+    width: 300px;
+    z-index: 9999;
+}
+#update_hover:hover #form_hover{
+    display: inherit;
+}*/
+
+
